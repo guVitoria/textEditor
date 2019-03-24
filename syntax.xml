@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<syntax-highlight>
+ <language>
+  <name>h</name>
+  <regexpr>char class const double enum explicit friend inline int long namespace operator private short signals signed slots static struct template typedef typename union unsigned virtual void case while for include define</regexpr>
+  <color>Yellow</color>
+ </language>
+ <language>
+  <name>cpp</name>
+  <regexpr>char class const double enum explicit friend inline int long namespace operator private short signals signed slots static struct template typedef typename union unsigned virtual void case while for include define</regexpr>
+  <color>Red</color>
+ </language>
+ <language>
+  <name>hpp</name>
+  <regexpr>char class const double enum explicit friend inline int long namespace operator private short signals signed slots static struct template typedef typename union unsigned virtual void case while for include define</regexpr>
+  <color>Green</color>
+ </language>
+ <language>
+  <name>py</name>
+  <regexpr>hello if while true def import class</regexpr>
+  <color>magenta</color>
+ </language>
+</syntax-highlight>
